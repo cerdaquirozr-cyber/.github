@@ -1,3 +1,12 @@
+# Security Policy
+
+## Supported Versions
+Usamos las últimas versiones de dependencias gracias a Dependabot.
+
+## Reporting a Vulnerability
+Si encuentras algo de seguridad, mándame DM en X (@RAMON_CERDA) o email.  
+No publiques públicamente hasta que lo arreglemos – ¡gracias por ayudar a mantenerlo seguro!
+
 Thanks for helping make GitHub safe for everyone.
 
 ## Security
